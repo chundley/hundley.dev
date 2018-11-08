@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <base href="{{ site.baseurl }}" />
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Amiri:400,400i,700,700i|Hind:300,400,500,600,700" rel="stylesheet">
     <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon//favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon//favicon-16x16.png">
@@ -16,14 +16,17 @@
     {% feed_meta %}
   </head>
   <body>
-    <div class="top-highlight"></div>
     <div class="container">
-      <div class="row mt-5">
-        <div class="col">
-          {% include left-about.html %}
+      <div class="row mt-2 mb-2">
+        <div class="col-lg-8 offset-lg-2 col-md-11 offset-md-1 col-sm-12 offset-sm-0">
+          {% include nav.html %}
         </div>
-        <div class="col">
-          {{ content }}
+      </div>
+      <div class="row">
+        <div class="col-lg-8 offset-lg-2 col-md-11 offset-md-1 col-sm-12 offset-sm-0">
+          <div class="main-content">
+            {{ content }}
+          </div>
         </div>
       </div>
     </div>

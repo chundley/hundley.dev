@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Jodi's Blog
+title: Catchable
 ---
 {% for post in site.posts %}
 <div class="row mb-5">
-  <div class="col-12 bp-date">{{ post.date | date_to_string }}</div>
-  <div class="col-12"><a href="{{ post.url }}"><h5>{{ post.title }}</h5></a></div>
-  <div class="col-12 pt-2 bp-post">{{ post.excerpt }}</div>
-  <div class="col-12 small"><a href="{{ post.url }}">Keep reading...</a></div>
+  <div class="col-8 post-header"><a href="{{ post.url }}">{{ post.title }}</a></div>
+  <div class="col-4 post-date text-right">{{ post.date | date: "%B %-d, %Y" }}</div>
+  <div class="col-12 pt-2 post-body">{{ post.content }}</div>
 </div>
 {% endfor %}

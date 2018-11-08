@@ -1,7 +1,12 @@
+
+$body-bg: #ececec;
 $headings-margin-bottom: 0px;
 
-$primary: #998877;
-$highlight: #f09872;
+$font-family-sans-serif: 'Hind', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+$font-family-serif: 'Ameri', serif;
+
+$primary: #313131;
+$secondary: #f09872;
 
 $primary-light: lighten($primary, 10%);
 $primary-dark: darken($primary, 10%);

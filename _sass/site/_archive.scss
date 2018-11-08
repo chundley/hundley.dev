@@ -7,7 +7,8 @@
     min-height: 150px;
     max-height: 150px;
     .al-post-static {
-      border: 1px solid $primary-light;
+      border: 1px solid lighten($primary, 70%);
+      border-radius: 6px;
       display: inline-block;
       padding: 6px;
       font-size: 11px;
@@ -28,6 +29,7 @@
       .al-post-hover {
         display: inline-block;
         background: rgba($primary, .8);
+        border-radius: 6px;
         padding: 6px;
         font-size: 14px;
         width: 100%;
@@ -49,19 +51,4 @@
       }
     }
   }
-  .archive-post {
-
-
-    &:hover {
-
-    }
-
-
-  }
-
-  .ap-hover {
-    display: none;
-  }
-
-
 }
