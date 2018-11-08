@@ -1,0 +1,67 @@
+.archive-list {
+  a {
+    text-decoration: none;
+  }
+
+  .al-post {
+    min-height: 150px;
+    max-height: 150px;
+    .al-post-static {
+      border: 1px solid $primary-light;
+      display: inline-block;
+      padding: 6px;
+      font-size: 11px;
+      min-height: 150px;
+      max-height: 150px;
+      overflow: hidden;
+    }
+
+    .al-post-hover {
+      display: none;
+    }
+
+    &:hover, &.active:hover {
+      .al-post-static {
+        display: none;
+      }
+
+      .al-post-hover {
+        display: inline-block;
+        background: rgba($primary, .8);
+        padding: 6px;
+        font-size: 14px;
+        width: 100%;
+        min-height: 150px;
+        max-height: 150px;
+        overflow: hidden;
+        .al-post-date {
+          position: absolute;
+          text-align: center;
+          text-transform: uppercase;
+          color: #fff;
+          font-weight: bold;
+        }
+
+        .al-post-body {
+          color: darken($primary-light, 5%);
+          font-size: 11px;
+        }
+      }
+    }
+  }
+  .archive-post {
+
+
+    &:hover {
+
+    }
+
+
+  }
+
+  .ap-hover {
+    display: none;
+  }
+
+
+}

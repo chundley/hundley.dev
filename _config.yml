@@ -1,0 +1,9 @@
+port: 4500
+timezone: America/Los_Angeles
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+collections:
+  posts:
+    permalink: /blog/:title/

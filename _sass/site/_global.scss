@@ -1,0 +1,36 @@
+
+.debug {
+  border: 1px solid red;
+}
+
+/**
+ * Colors
+ */
+.primary {
+  color: $primary;
+}
+
+.primary-bg {
+  background: $primary;
+}
+
+.primary-light {
+  color: $primary-light;
+}
+
+.primary-dark {
+  color: $primary-dark;
+}
+
+.bp-date {
+  text-transform: uppercase;
+  color: $primary-light;
+  font-size: 14px;
+}
+
+.bp-post {
+  p {
+    margin: 0;
+    padding: 0;
+  }
+}

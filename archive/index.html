@@ -1,0 +1,30 @@
+---
+layout: default
+title: Blog Archive
+---
+{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%B %Y'"  %}
+
+{% for yearMonth in postsByYearMonth %}
+<div class="row mb-5 archive-list">
+  <div class="col-12 mb-3">
+    <h6 class="primary-dark">{{ yearMonth.name }}</h6>
+  </div>
+  {% for post in yearMonth.items %}
+  <div class="col-4 pb-1">
+    <a href="{{ post.url }}">
+      <div class="al-post">
+        <div class="al-post-static">
+          <strong>{{ post.title }}</strong><br/>
+          <div class="pt-1 mt-0">{{ post.excerpt }}</div>
+        </div>
+        <div class="al-post-hover">
+          <span class="al-post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <strong class="al-post-body">{{ post.title }}</strong><br/>
+          <div class="pt-1 mt-0 al-post-body">{{ post.excerpt }}</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  {% endfor %}
+</div>
+{% endfor %}

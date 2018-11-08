@@ -1,0 +1,23 @@
+
+.top-highlight {
+  height: 6px;
+  max-height: 6px;
+  background: $highlight;
+}
+
+.site-pic {
+  border-radius: 50%;
+}
+
+.nav {
+  .nav-link {
+    border-top: 1px solid $primary-light;
+    border-left: 1px solid $primary-light;
+    border-right: 1px solid $primary-light;
+    background: #eeeeee;
+  }
+
+  .nav-link:last-child {
+    border-bottom: 1px solid $primary-light;
+  }
+}
