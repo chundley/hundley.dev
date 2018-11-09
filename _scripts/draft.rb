@@ -1,14 +1,12 @@
 require 'date'
 
-def new_post
+def new_draft
   post_name = ARGV[0]
+  post_file_name = post_name + ".md"
   d = DateTime.now
-  file_d = d.strftime("%Y-%m-%d")
   post_d = d.strftime("%Y-%m-%dT%H:%M:%SZ")
 
-  final_name = "_posts/" + file_d + "-" + post_name + ".md"
-  out_file = File.new(final_name, "w")
-
+  out_file = File.new("_drafts/" + post_file_name, "w")
   out_file.puts("---")
   out_file.puts("layout: post")
   out_file.puts("title: " + post_name)
@@ -17,6 +15,6 @@ def new_post
   out_file.puts("---")
   out_file.puts("Lorem ipsum dolar")
   out_file.close
-  puts("Created '" + final_name + "' in _posts folder")
+  puts("Created '" + post_file_name + "' in _drafts folder")
 end
-new_post
+new_draft

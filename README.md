@@ -40,3 +40,5 @@ Depending on whether you installed git or github, you'll need to figure out wher
 ### Create a new blog post
 `./_scripts/post.rb "This is the title of my new post"`
 
+### Create a new DRAFT blog post
+`./_scripts/draft.rb "This is the title of my new post"`
