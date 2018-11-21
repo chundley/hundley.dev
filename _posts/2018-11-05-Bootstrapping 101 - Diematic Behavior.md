@@ -44,6 +44,10 @@ Price (and assumed discounts) are the most common way this manifests itself. Her
 
 **Vendor**: That's going to be tough - I haven't been authorized to go that low. Let me speak to my boss and see what I can do for you.
 
+This tactic serves multiple purposes. First, it gives you a chance to actually think about what kind of deal you're willing to offer. Second, it lets you put the ball back in their court with **choices**. This is key to feeding that ego and putting the customer in charge.
+
+The goal is to remove the binary choice of "buy" vs "don't buy". Replace that with two different buying options.
+
 At this point take the time to figure out what the final offer looks like. Maybe a 3 month pilot at $400 is good enough - or maybe it's worth your time to offer $350 if they sign an annual contract.
 
 The **best** option is to give them
