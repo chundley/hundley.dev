@@ -8,6 +8,8 @@ The road to success is long and arduous, there is little doubt that only the str
 Someone once asked me **“what was the lowest point during the history of your company?”** I hadn’t really thought about
 it prior to this question, but my memory zeroed in on a specific moment almost immediately.
 
+<!--preview-->
+
 > It's not just one thing, it's the sum total of many things happening in short succession that cause the most intense highs and lows we experience in life.
 
 # Desparation mode

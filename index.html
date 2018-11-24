@@ -2,11 +2,16 @@
 layout: default
 title: Catchable
 ---
-{% for post in site.posts %}
-<div class="row mb-5">
-  <div class="col-8 post-header"><a href="{{ post.url }}">{{ post.title }}</a></div>
-  <div class="col-4 post-date text-right">{{ post.date | date: "%B %-d, %Y" }}</div>
-  <div class="col-12 pt-2 post-body">{{ post.content }}</div>
+{% for post in site.posts limit:5 %}
+<div class="row mb-3">
+  <div class="col-9 post-header"><a href="{{ post.url }}">{{ post.title }}</a></div>
+  <div class="col-3 post-date text-right">{{ post.date | date: "%B %-d, %Y" }}</div>
+  <div class="col-12 pt-2 post-body">
+    {{ post.content | split:'<!--preview-->' | first }}
+  </div>
+  <div class="col-12 text-left small">
+    <a href="{{ post.url }}"><em>continue reading...</em></a>
+  </div>
   {% if forloop.last == false %}
   <div class="col-12 mt-4"><hr/></div>
   {% endif %}

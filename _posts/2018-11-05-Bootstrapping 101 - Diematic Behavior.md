@@ -4,9 +4,11 @@ title: Bootstrapping 101 - Diematic Behavior
 date: 2018-11-05T13:29:36Z
 author: C$
 ---
-Some animals in nature have a natural defense mechanism called <a href="https://en.wikipedia.org/wiki/Deimatic_behaviour" target="_blank">Diematic Behavior</a>. It is a natural defense meant to bluff a predator into believing something untrue about the creature in question.
+Some animals have a natural defense mechanism called <a href="https://en.wikipedia.org/wiki/Deimatic_behaviour" target="_blank">Diematic Behavior</a>. It is a natural defense meant to bluff a predator into believing something untrue about the creature in question.
 
-A critical tactic employed by most startups is the act of making oneself "look bigger". For example, this **frilled lizard** looks a lot more formidable when agitated into this state:
+
+
+A critical tactic employed by most startups is the act of making oneself "look bigger". <!--preview--> For example, this **frilled lizard** looks a lot more formidable when agitated into this state:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Chlamydosaurus_kingii.jpg" width="300" class="standard">
 
@@ -36,6 +38,8 @@ Customers love to feel taken care of, and generally feel they've earned some spe
 
 Price (and assumed discounts) are the most common way this manifests itself. Here is a typical back-and-forth towards the end of the sales cycle:
 
+> The goal is to remove the binary choice of "buy" vs "don't buy". Replace that with "buy package A" or "buy package B".
+
 **Customer**: $500 a month is out of our budget for this year.
 
 **Vendor**: If you can get approval for an annual contract we can knock 10% off and get you to $450.
@@ -44,10 +48,17 @@ Price (and assumed discounts) are the most common way this manifests itself. Her
 
 **Vendor**: That's going to be tough - I haven't been authorized to go that low. Let me speak to my boss and see what I can do for you.
 
-This tactic serves multiple purposes. First, it gives you a chance to actually think about what kind of deal you're willing to offer. Second, it lets you put the ball back in their court with **choices**. This is key to feeding that ego and putting the customer in charge.
+This tactic serves multiple purposes. First, it gives you a chance to actually think about what kind of deal you're willing to offer. Second, it lets you put the ball back in their court with **choices**. This is key to feeding that ego and putting the customer in charge. The goal is to remove the binary choice of "buy" vs "don't buy". Replace that with "buy package A" or "buy package B".
 
-The goal is to remove the binary choice of "buy" vs "don't buy". Replace that with two different buying options.
+At this point take the time to figure out what the final offer looks like. Maybe a 3 month pilot at $400 is good enough - or maybe it's worth your time to offer $350 if they sign an annual contract. If you find two options you can live with, put the decision in their hands.
 
-At this point take the time to figure out what the final offer looks like. Maybe a 3 month pilot at $400 is good enough - or maybe it's worth your time to offer $350 if they sign an annual contract.
+# Back to our goal
+The primary objective is obviously to close the deal. To the point of this post, however, this interaction also supports an overarching strategic objective - to apply Diematic Behavior and give the perception of a larger organization.
 
-The **best** option is to give them
+It's ironic that we are generally apprehensive of beuaracracies or large oranizations that hold things up, but most buyers are doubly scared of investing in an early stage startup + product. It's a tricky balance but sometimes necessary.
+
+# Full circle
+In the early days when I was still solo I spent an inordinate amount of time on a deal with <a href="https://www.ringcentral.com/" target="_blank">RingCentral</a>. I had done multiple demos over the course of 6-8 months and it wasn't until they hired Josh Hill, famous for his <a href="https://www.marketingrockstarguides.com/about-josh-hill/" target="_blank">Marketing Rockstar Guides</a> that any real progress was made. I had two demo calls with Josh and a few months later they closed.
+
+Almost two years after that we were hosting a customer event at Marketo's annual conference. Josh showed up and we met in person for the first time. I introduced myself and the first words out of his mouth were "oh, hey, you are the sales guy I talked to back when we bought Siftrock." He was surprised to learn I was actually a founder. In his mind I was a cog in a bigger machine, and that perception was key in closing the deal.
+

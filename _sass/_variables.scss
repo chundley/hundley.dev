@@ -6,7 +6,9 @@ $font-family-sans-serif: 'Raleway', -apple-system, BlinkMacSystemFont, 'Segoe UI
 $font-family-serif: 'Playfair', serif;
 
 $primary: #313131;
-$secondary: #f09872;
+$secondary: #5b4ca0;
+
+$link-color: $secondary;
 
 $primary-light: lighten($primary, 10%);
 $primary-dark: darken($primary, 10%);

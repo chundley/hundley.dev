@@ -1,9 +1,15 @@
 .post-header {
-  font-size: 50px;
-  line-height: 56px;
+  font-size: 44px;
+  line-height: 52px;
   font-family: $font-family-serif;
   font-weight: 700;
   margin-bottom: 30px;
+
+  a {
+    &:hover {
+      text-decoration: none;
+    }
+  }
 }
 
 .post-body {
@@ -38,5 +44,8 @@ blockquote {
   border-left: 6px solid lighten($primary, 70%);
   padding-left: 10px;
   margin-left: 12px;
-  padding-bottom: 4px;
+  margin-top: 24px;
+  margin-bottom: 32px;
+  padding-top: 4px;
+  padding-bottom: 1px;
 }

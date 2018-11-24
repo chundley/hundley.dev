@@ -25,16 +25,23 @@
 .main-content {
   background: $white;
   border-radius: 8px;
+  border: 1px solid lighten($primary, 66%);
   padding: 24px 28px;
 }
 
+.footer {
+  font-size: 14px;
+}
+
 .sticky-b {
-  position: fixed;
+  position: sticky;
+  top: 290px;
+  margin-top: 330px;
+  margin-right: -24px;
   transform: rotate(-90deg);
   font-size: 60px;
-  color: lighten($primary, 65%);
-  right: 0;
-  //right: 100px;
+  letter-spacing: 10px;
+  color: lighten($primary, 70%);
 }
 
 img.standard {
