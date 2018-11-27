@@ -27,6 +27,14 @@
   h1 {
     font-size: 26px;
   }
+
+  a {
+    border-bottom: 1px dotted $link-color;
+    &:hover {
+      text-decoration: none;
+      border-bottom: 1px solid $link-color;
+    }
+  }
 }
 
 .post-date {

@@ -25,7 +25,7 @@
 .main-content {
   background: $white;
   border-radius: 8px;
-  border: 1px solid lighten($primary, 66%);
+  border: 1px solid darken($body-bg, 5%);
   padding: 24px 28px;
 }
 
@@ -41,7 +41,7 @@
   transform: rotate(-90deg);
   font-size: 60px;
   letter-spacing: 10px;
-  color: lighten($primary, 70%);
+  color: darken($body-bg, 5%);
 }
 
 img.standard {
