@@ -13,7 +13,7 @@ We had two main problems with our four-legged best friends that we hoped to solv
 <img src="/assets/img/dog-potty-finished-01.jpg" class="img-fluid standard">
 
 # Materials
-Based on the original blog post referenced above and some additional reading on how other people approached the project, I settled on the following supplies. Prices and location purchased aren't necessarily what I used, these are meant as references to help with your project:
+Based on the original blog post referenced above and some additional reading on how other people approached the project, I settled on the following supplies. Location purchased aren't necessarily accurate, these are meant as references to help with your project:
 
 - <a href="https://www.homedepot.com/p/Construction-Select-2-in-x-6-in-x-10-ft-2-Ground-Contact-Hem-Fir-Pressure-Treated-Lumber-549000102061000/206931768" target="_blank">  Pressure treated 2x6 lumber</a> (x3 = $30)
 - <a href="https://www.homedepot.com/p/Grip-Rite-10-x-3-in-Philips-Bugle-Head-Coarse-Thread-Sharp-Point-Polymer-Coated-Exterior-Screw-PTN3S1/100115639" target="_blank">Three inch outdoor treated wood screws</a> ($9)
@@ -25,8 +25,11 @@ Delivery charge was $79 and sales tax around $30.
 
 **Total cost: $300**. Depending on the size of your dog(s), you could get away with less material. In our case we have:
 
-- (1) Rhodesian Ridgeback ~80 pounds
 - (1) Italian Greyhound ~18 pounds
+- (1) Rhodesian Ridgeback ~80 pounds
+
+<img src="/assets/img/dog-potty-noodle.jpg" class="img-fluid standard">
+<img src="/assets/img/dog-potty-kima.jpg" class="img-fluid standard">
 
 You could also pick up the materials and save on delivery. I chose to have them brought to our house to make things easier.
 
@@ -54,12 +57,63 @@ Here is a view from the other side. Dirt was moved from the area closer to the c
 <img src="/assets/img/dog-potty-03.jpg" class="img-fluid standard">
 
 # Step 3: Box assembly
+Once the ground was level and I was sure about the location, I screwed the 2x6's together using 3" screws. When I described the project to my local lumber guy I was surprised that he didn't suggest longer screws. It turns out the wood is more likely to split and the box generally more rigid (and possibly fragile) the longer they get.
 
+Here is the box, ready to start laying down the first layer of gravel -
 
+<img src="/assets/img/dog-potty-04.jpg" class="img-fluid standard">
 
+# Step 4: First layer of screen
+The screen material in the first layer helps reduce weeds or plants that try to grow up through the gravel. It's also a nice stabalizer for the rocks and would make removal (should that ever be necessary) easier.
 
+I cut two pieces of screen to allow screen slack under the box to hold it in place. I also cut out a slit/hole for the tree so everything would lay down evenly.
 
-I decided to use a double layer of rocks suggested by the original design for optimal drainage.
+<img src="/assets/img/dog-potty-05.jpg" class="img-fluid standard">
 
-The
+# Step 5: First layer of rock
+Time to lay down the river pebbles - the larger of the two. These allow awesome drainage but are a little tougher for the dogs to walk across - so we use them for the bottom layer.
 
+Here is a close up of the first bag dumped out. This picture gives a good idea how deep the box is, and how small of an area a single bag of rocks covers.
+
+<img src="/assets/img/dog-potty-06.jpg" class="img-fluid standard">
+
+Once all the bags are empty, we have a clean 1.5 inch layer of river pebbles -
+
+<img src="/assets/img/dog-potty-07.jpg" class="img-fluid standard">
+
+# Step 6: Second screen layer
+We plan to use this for 20+ years so it made sense to drop another layer of screen down before the smaller pebbles. Over time the rocks would mix and we'd rather have the small pebbles remain on the top layer.
+
+<img src="/assets/img/dog-potty-08.jpg" class="img-fluid standard">
+
+Same process as before, cut two pieces and a little slit/hole for the tree. Here's a closeup of the tree area -
+
+<img src="/assets/img/dog-potty-09.jpg" class="img-fluid standard">
+
+And another closeup of a corner showing the space left for the rest of the rock -
+
+<img src="/assets/img/dog-potty-11.jpg" class="img-fluid standard">
+
+# Step 7: Second layer of rock
+Almost home! Now for the pea pebbles which are slightly larger than gravel. These ended up being almost too small for the big dog. At first she didn't like the instability compared to solid ground but got used to it eventually. If I did the project again I might go one size larger on this layer.
+
+<img src="/assets/img/dog-potty-10.jpg" class="img-fluid standard">
+
+Here's the finished project from the opposite side -
+
+<img src="/assets/img/dog-potty-12.jpg" class="img-fluid standard">
+
+From start to finish this took about 5 hours on a Saturday. Once finished we decided to bring in some experts to help with revamping the rest of the landscaping in our yard.
+
+The first thing they wanted to do was remove the box! Oh no, no no no - the box stays my friends. Not only does it stay, we want it to be the centerpiece of the yard.
+
+# Final results
+After some planning and several days of work, the finished product is amazing. We have a great oasis in the back and a primo dog box that both of our girls are enjoying. Of course we benefit huge by having a single place for cleanup. As an added bonus our sprinklers end up keeping the area washed down.
+
+The drainage is amazing - our Rhodesian had a habbit of getting "wet feet" when she used her old dirt area. Now it vanishes without pooling. Huge difference.
+
+<img src="/assets/img/dog-potty-finished-02.jpg" class="img-fluid standard">
+
+<img src="/assets/img/dog-potty-finished-03.jpg" class="img-fluid standard">
+
+And that's a wrap, thanks for reading!
