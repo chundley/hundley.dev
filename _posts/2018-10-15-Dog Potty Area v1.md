@@ -31,9 +31,11 @@ Delivery charge was $79 and sales tax around $30.
 <img src="/assets/img/dog-potty-noodle.jpg" class="img-fluid standard">
 <img src="/assets/img/dog-potty-kima.jpg" class="img-fluid standard">
 
-You could also pick up the materials and save on delivery. I chose to have them brought to our house to make things easier.
-
 With a smaller box you could get away with a lot less rock and maybe even go with just one layer.
+
+You could also pick up the materials and save on delivery. I chose to have them brought to our house to make things easier. Fair warning though, it took me almost an hour to lug these bags from the palette they dropped of at the front of the house to the back yard. It was a great workout :)
+
+<img src="/assets/img/dog-potty-13.jpg" class="img-fluid standard">
 
 # Location and size
 The first order of business was deciding where to put the box and how big it would be. I settled on 10 feet by 5 feet which ended up being convenient since our neighborhood lumber yard was selling 2x6's in 10 foot lengths. This meant buying 3 pieces and splitting one in half.
@@ -64,7 +66,7 @@ Here is the box, ready to start laying down the first layer of gravel -
 <img src="/assets/img/dog-potty-04.jpg" class="img-fluid standard">
 
 # Step 4: First layer of screen
-The screen material in the first layer helps reduce weeds or plants that try to grow up through the gravel. It's also a nice stabalizer for the rocks and would make removal (should that ever be necessary) easier.
+The screen material in the first layer helps reduce weeds or plants that try to grow up through the gravel. It's also a nice stabilizer for the rocks and would make removal (should that ever be necessary) easier.
 
 I cut two pieces of screen to allow screen slack under the box to hold it in place. I also cut out a slit/hole for the tree so everything would lay down evenly.
 
@@ -103,17 +105,17 @@ Here's the finished project from the opposite side -
 
 <img src="/assets/img/dog-potty-12.jpg" class="img-fluid standard">
 
-From start to finish this took about 5 hours on a Saturday. Once finished we decided to bring in some experts to help with revamping the rest of the landscaping in our yard.
+From start to finish this took about 5 hours on a Saturday. Once complete we decided to bring in some experts to help with revamping the rest of the landscaping in our yard.
 
-The first thing they wanted to do was remove the box! Oh no, no no no - the box stays my friends. Not only does it stay, we want it to be the centerpiece of the yard.
+The first thing they wanted to do was remove the box! Oh no, **no no no** - the box stays my friends. Not only does it stay, we want it to be the centerpiece of the yard.
 
 # Final results
-After some planning and several days of work, the finished product is amazing. We have a great oasis in the back and a primo dog box that both of our girls are enjoying. Of course we benefit huge by having a single place for cleanup. As an added bonus our sprinklers end up keeping the area washed down.
+After some planning and several days of work by our amazing landscapers, the finished product blew away our expectations. We have a great oasis in the back yard and a primo dog box that both of our girls are enjoying. Of course, the humans benefit huge by having a confined place for cleanup. As an added bonus our sprinklers keep the area washed down.
 
-The drainage is amazing - our Rhodesian had a habbit of getting "wet feet" when she used her old dirt area. Now it vanishes without pooling. Huge difference.
-
-<img src="/assets/img/dog-potty-finished-02.jpg" class="img-fluid standard">
+The drainage is amazing - our Rhodesian had a habit of getting "wet feet" when she used her old dirt area. Now it vanishes without pooling. Huge difference and well worth the effort.
 
 <img src="/assets/img/dog-potty-finished-03.jpg" class="img-fluid standard">
+
+<img src="/assets/img/dog-potty-finished-01.jpg" class="img-fluid standard">
 
 And that's a wrap, thanks for reading!
