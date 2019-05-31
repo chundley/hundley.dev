@@ -50,7 +50,7 @@ We had an abundance of small plants in the way - we had already decided we'd jus
 <img src="/assets/img/dog-potty-01.jpg" class="img-fluid standard">
 
 # Step 2: Level and layout
-Once I knew approximately where the box would go it was time to level out the area. To be honest, this was the toughest part of the project. THe yard was sloped in two directions from the center and there were a few nasty tree roots to deal with. Here's the area cleaned up and being leveled. I also trimmed up the bottom of the tree so the humans could more easily walk through the area.
+Once I knew approximately where the box would go it was time to level out the area. To be honest, this was the toughest part of the project. The yard was sloped in two directions from the center and there were a few nasty tree roots to deal with. Here's the area cleaned up and being leveled. I also trimmed up the bottom of the tree so the humans could more easily walk through the area.
 
 <img src="/assets/img/dog-potty-02.jpg" class="img-fluid standard">
 
