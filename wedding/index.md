@@ -12,7 +12,7 @@ title: Chris and Jodi 2019
   </div>
 
   <div class="text-center mt-5 mb-5">
-  INVITE YOU TO JOIN THEM AT THE<br/>
+  INVITE YOU TO JOIN THEM IN THE<br/>
   CELEBRATION OF THEIR MARRIAGE
   </div>
 
@@ -31,7 +31,7 @@ title: Chris and Jodi 2019
 
   <div class="text-center mt-4 mb-4">
   RECEPTION AND LUNCH/REFRESHMENTS<br/>
-  TO FOLLOW THE SHORT CEREMONY
+  TO FOLLOW THE CEREMONY
   </div>
 
   <div class="text-center">
@@ -54,7 +54,7 @@ title: Chris and Jodi 2019
 
   <div class="text-center mt-5">
   <p><strong>WEDDING INFO AND ACTIVITIES</strong></p>
-  <p>We don't have a registry nor do we expect any gifts, seeing your wonderful faces and having time to visit is more than enough for us</p>
+  <p>No gifts needed--seeing your wonderful faces and having time to visit is more than enough for us</p>
   <p>For those who are comfortable, we'd love for you to come prepared with a "favorite story" about Chris or Jodi to share with the group :)</p>
   </div>
 </div></div>
