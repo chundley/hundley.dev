@@ -57,5 +57,9 @@ title: Chris and Jodi 2019
   <p>No gifts needed, seeing your wonderful faces and having time to visit is more than enough for us</p>
   <p>The ceremony and reception will be held outdoors.</p>
   <p>For those who are comfortable, we'd love for you to come prepared with a "favorite story" about Chris or Jodi to share with the group :)</p>
+  <p>Contact information in case of emergency:<br/>
+      <strong>Chris</strong>: 425-681-9879<br/>
+      <strong>Jodi</strong>: 509-727-0417
+  </p>
   </div>
 </div></div>
