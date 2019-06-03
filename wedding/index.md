@@ -47,9 +47,9 @@ title: Chris and Jodi 2019
   <p><strong>FRIDAY, JUNE 28TH</strong></p>
   <p>There will be a brunch at Chris and Jodi's house in Kirkland. We'll be serving up mimosas, waffles, eggs, toast, fruit, and other breakfast food.</p>
   <p>We'll get started around 11AM. Anyone who is able to make it is welcome.</p>
-  <strong><a href="https://goo.gl/maps/SM8desagJr2air7u9" target="_blank">
+  <a href="https://goo.gl/maps/SM8desagJr2air7u9" target="_blank">
   10608 106th Pl NE<br/>
-  Kirkland, WA 98033</a></strong>
+  Kirkland, WA 98033</a>
   </div>
 
   <div class="text-center mt-5">
