@@ -27,9 +27,9 @@ title: catchable.io Blog - About Chris
 </div>
 <div class="row mt-3">
   <div class="col-5 center-vertical">
-    Bellagio poker room - home away from home. My usual games are the 2-5 and 5-10 NLHE.
+    Venetian $1600 Ultra Bounty Deepstack event in 2023 - best live tournament win (so far...).
   </div>
   <div class="col-7">
-    <img src="/assets/img/ch-bellagio.jpg" class="img-fluid standard">
+    <img src="/assets/img/venetian-win.jpg" class="img-fluid standard">
   </div>
 </div>
